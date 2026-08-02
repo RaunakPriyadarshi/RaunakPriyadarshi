@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Raunak Priyadarshi Yadav 👋
 
-<!--
-**RaunakPriyadarshi/RaunakPriyadarshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech (Data Science) student at the **Mehta Family School of Data Science and Artificial Intelligence, IIT Roorkee**
 
-Here are some ideas to get you started:
+🏅 B.E. in Computer Science & Engineering (First Class with Distinction, CGPA 9.45/10) from Visvesvaraya Technological University, Belagavi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Focused on **Data Science & Machine Learning**, building projects in computer vision, predictive modeling, and applied AI
+
+🌱 Currently seeking **Data Science / ML internship opportunities**
+
+📫 Reach me at: priyadarshiraunak347@gmail.com | https://www.linkedin.com/in/rpy105/
+
+---
+
+### 🎓 Education
+- **M.Tech, Data Science** — Mehta Family School of Data Science and AI, IIT Roorkee *(2026 – present)*
+- **B.E., Computer Science & Engineering** — Visvesvaraya Technological University *(First Class with Distinction, CGPA 9.45/10)*
+
+### 🛠️ Tech Stack
+`Python` `TensorFlow` `PyTorch` `OpenCV` `Scikit-learn` `Pandas` `NumPy` `SQL` `Java` `C++`
+
+### 📌 Featured Projects
+- 🚗 **[Vehicle Detection & Counting](https://github.com/RaunakPriyadarshi/Vehicle-Detection-and-Counting)** — Real-time vehicle detection and bidirectional counting system for traffic monitoring, built with OpenCV/Python
+- 🩺 **[Diabetic Retinopathy Detection](https://github.com/RaunakPriyadarshi/Diabetic-Retinopathy-Detection)** — Deep learning model to classify diabetic retinopathy severity from retinal images
+- 🤖 **[Gemini AI Integration](https://github.com/RaunakPriyadarshi/gemini_ai)** — Applied project using Google's Gemini AI API
+
+### 📊 GitHub Stats
+![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaunakPriyadarshi&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakPriyadarshi&layout=compact)
+
+---
+⭐️ From [RaunakPriyadarshi](https://github.com/RaunakPriyadarshi)
