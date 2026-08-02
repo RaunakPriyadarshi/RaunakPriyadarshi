@@ -49,26 +49,8 @@
 ---
 
 ### 📫 Connect with me
-[LinkedIn](#) · [Email](mailto:your-email@example.com)
+[https://www.linkedin.com/in/rpy105/](#) · [priyadarshiraunak347@gmail.com](mailto:your-email@example.com)
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaunakPriyadarshi&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakPriyadarshi&layout=compact&theme=tokyonight" />
-</p>
-
-<!-- Animated streak counter -->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunakPriyadarshi&theme=tokyonight" />
-</p>
-
-<!-- Animated snake contribution graph (requires one-time GitHub Actions setup, see notes below) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RaunakPriyadarshi/RaunakPriyadarshi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <!-- Bottom animated wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=100&section=footer" width="100%"/>
