@@ -1,32 +1,76 @@
-# Hi, I'm Raunak Priyadarshi Yadav 👋
+<div align="center">
 
-🎓 M.Tech (Data Science) student at the **Mehta Family School of Data Science and Artificial Intelligence, IIT Roorkee**
+<!-- Animated typing intro -->
+<a href="https://github.com/RaunakPriyadarshi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raunak+Priyadarshi+Yadav+%F0%9F%91%8B;M.Tech+Data+Science+%40+IIT+Roorkee;Aspiring+Data+Science+%2F+ML+Engineer" alt="Typing SVG" />
+</a>
 
-🏅 B.E. in Computer Science & Engineering (First Class with Distinction, CGPA 9.45/10) from Visvesvaraya Technological University, Belagavi
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=120&section=header" width="100%"/>
 
-🔍 Focused on **Data Science & Machine Learning**, building projects in computer vision, predictive modeling, and applied AI
+</div>
 
-🌱 Currently seeking **Data Science / ML internship opportunities**
-
-📫 Reach me at: priyadarshiraunak347@gmail.com | https://www.linkedin.com/in/rpy105/
+🎓 M.Tech in Data Science @ **IIT Roorkee** (Mehta Family School of Data Science and AI), 2026–27
+🎓 B.E. in Computer Science and Engineering — Acharya Institute of Technology, VTU Belagavi (CGPA 9.45/10, First Class with Distinction)
+🎯 Aiming for Data Science / ML Engineer roles
 
 ---
 
-### 🎓 Education
-- **M.Tech, Data Science** — Mehta Family School of Data Science and AI, IIT Roorkee *(2026 – present)*
-- **B.E., Computer Science & Engineering** — Visvesvaraya Technological University *(First Class with Distinction, CGPA 9.45/10)*
+### 🛠️ Skills
+**Languages:** [confirm — e.g. Python, Java, C++, SQL]
+**ML/DL:** [confirm — e.g. TensorFlow, Keras, Scikit-learn, OpenCV]
+**Interests:** [confirm — e.g. Computer Vision, Applied AI, LLM integrations]
+**Tools:** [confirm — e.g. Git, Flask, Streamlit]
+**Certifications:** [add any you have — e.g. IBM, Coursera, NPTEL courses]
 
-### 🛠️ Tech Stack
-`Python` `TensorFlow` `PyTorch` `OpenCV` `Scikit-learn` `Pandas` `NumPy` `SQL` `Java` `C++`
+<!-- Animated skill icons (hover/scroll effect built into the icon set) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,git,flask,cpp,java,mysql" />
+</p>
 
-### 📌 Featured Projects
-- 🚗 **[Vehicle Detection & Counting](https://github.com/RaunakPriyadarshi/Vehicle-Detection-and-Counting)** — Real-time vehicle detection and bidirectional counting system for traffic monitoring, built with OpenCV/Python
-- 🩺 **[Diabetic Retinopathy Detection](https://github.com/RaunakPriyadarshi/Diabetic-Retinopathy-Detection)** — Deep learning model to classify diabetic retinopathy severity from retinal images
-- 🤖 **[Gemini AI Integration](https://github.com/RaunakPriyadarshi/gemini_ai)** — Applied project using Google's Gemini AI API
+🏆 [Add here if you have any hackathon wins, competition placements, or NSDC internship details worth highlighting]
+
+---
+
+### 🚀 Featured Projects
+
+**[Vehicle Detection & Counting](https://github.com/RaunakPriyadarshi/Vehicle-Detection-and-Counting)**
+[Need your input: what detection method/model did you use — YOLO, Haar cascades, background subtraction? What's the counting logic — bidirectional? Any accuracy/FPS numbers?]
+`Python` `OpenCV` `[confirm model used]`
+
+**[Diabetic Retinopathy Detection](https://github.com/RaunakPriyadarshi/Diabetic-Retinopathy-Detection)**
+[Need your input: what architecture — CNN from scratch, ResNet, EfficientNet? How many severity classes? What's your validation accuracy/F1-score? Any preprocessing like CLAHE?]
+`Python` `[confirm framework]` `[confirm model]`
+
+**[Gemini AI Integration](https://github.com/RaunakPriyadarshi/gemini_ai)**
+[Need your input: what does this project actually do — a chatbot, a content generator, an API wrapper? What's the use case?]
+`Python` `Gemini API`
+
+---
+
+### 📫 Connect with me
+[LinkedIn](#) · [Email](mailto:your-email@example.com)
+
+---
 
 ### 📊 GitHub Stats
-![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaunakPriyadarshi&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakPriyadarshi&layout=compact)
 
----
-⭐️ From [RaunakPriyadarshi](https://github.com/RaunakPriyadarshi)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaunakPriyadarshi&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakPriyadarshi&layout=compact&theme=tokyonight" />
+</p>
+
+<!-- Animated streak counter -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunakPriyadarshi&theme=tokyonight" />
+</p>
+
+<!-- Animated snake contribution graph (requires one-time GitHub Actions setup, see notes below) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaunakPriyadarshi/RaunakPriyadarshi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<!-- Bottom animated wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=100&section=footer" width="100%"/>
+
+<div align="center">⭐️ From <a href="https://github.com/RaunakPriyadarshi">RaunakPriyadarshi</a></div>
